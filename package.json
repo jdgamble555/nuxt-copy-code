@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-copy-code",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@progress/kendo-drawing": "^1.25.2",
+    "@progress/kendo-licensing": "^1.11.2",
+    "@progress/kendo-svg-icons": "^5.1.0",
+    "@progress/kendo-theme-fluent": "^14.1.0",
+    "@progress/kendo-vue-buttons": "^9.0.0",
+    "@progress/kendo-vue-dialogs": "^9.0.0",
+    "@progress/kendo-vue-dropdowns": "^9.0.0",
+    "@progress/kendo-vue-editor": "^9.0.0",
+    "@progress/kendo-vue-inputs": "^9.0.0",
+    "@progress/kendo-vue-intl": "^9.0.0",
+    "@progress/kendo-vue-layout": "^9.0.0",
+    "@progress/kendo-vue-pdf": "^9.0.0",
+    "@progress/kendo-vue-popup": "^9.0.0",
+    "@progress/kendo-vue-progressbars": "^9.0.0",
+    "nuxt": "^4.4.8",
+    "vue": "^3.5.38",
+    "vue-router": "^5.1.0"
+  }
+}
